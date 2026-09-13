@@ -179,32 +179,6 @@ StudySphere integrates the official **SuperMemo-2 (SM-2)** algorithm for active 
 
 ---
 
-## 🚀 Quick Start & Installation
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/sachin07-a/studysphere.git
-cd studysphere
-```
-
-### 2. Install Dependencies
-```bash
-npm install
-```
-
-### 3. Start Development Server
-```bash
-npm run dev
-```
-Open your browser and navigate to `http://localhost:5173`.
-
-### 4. Build for Production
-```bash
-npm run build
-```
-
----
-
 ## 📂 Project Directory Structure
 
 ```text
@@ -264,10 +238,6 @@ studysphere/
 - **Local Sovereignty**: All your academic data lives on your device and can be backed up as an open JSON file whenever you wish.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
 
