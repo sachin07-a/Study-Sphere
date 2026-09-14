@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://workharddaily.netlify.app/" target="_blank">
+<a href="https://studysphere-peach.vercel.app/" target="_blank">
   <img src="./public/screenshots/studysphere-dashboard.png" alt="StudySphere 3D Top View Dashboard Preview" width="100%" style="border-radius: 16px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 20px 50px -15px rgba(0,0,0,0.8);" />
 </a>
 
@@ -19,7 +19,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/Live_Website-workharddaily.netlify.app-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://workharddaily.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Website-studysphere--peach.vercel.app-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://studysphere-peach.vercel.app/)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19.x-61dafb.svg?logo=react)](https://react.dev/)
@@ -29,7 +29,7 @@
 
 <br/>
 
-[**🚀 Launch Live Web App**](https://workharddaily.netlify.app/) • [**Explore Repository**](https://github.com/sachin07-a/studysphere) • [**Report a Bug**](https://github.com/sachin07-a/studysphere/issues) • [**Request a Feature**](https://github.com/sachin07-a/studysphere/issues)
+[**🚀 Launch Live Web App**](https://studysphere-peach.vercel.app/) • [**Explore Repository**](https://github.com/sachin07-a/studysphere) • [**Report a Bug**](https://github.com/sachin07-a/studysphere/issues) • [**Request a Feature**](https://github.com/sachin07-a/studysphere/issues)
 
 </div>
 
@@ -38,7 +38,7 @@
 ## 🌐 Live Website & Demo
 
 Experience the full live application running in your browser:
-👉 **[https://workharddaily.netlify.app/](https://workharddaily.netlify.app/)**
+👉 **[https://studysphere-peach.vercel.app/](https://studysphere-peach.vercel.app/)**
 
 ---
 
@@ -266,6 +266,6 @@ studysphere/
 
 Crafted with 🌌 for students and scholars worldwide.
 
-**[⭐ Star this repository on GitHub](https://github.com/sachin07-a/studysphere)** • **[🚀 Live App: workharddaily.netlify.app](https://workharddaily.netlify.app/)**
+**[⭐ Star this repository on GitHub](https://github.com/sachin07-a/studysphere)** • **[🚀 Live App: studysphere-peach.vercel.app](https://studysphere-peach.vercel.app/)**
 
 </div>
