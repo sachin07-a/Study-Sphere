@@ -7,17 +7,6 @@
 ### The Next-Generation 3D Academic Operating System & Student Productivity Suite
 *Distraction-Free • Sensory Customization • Spaced Repetition • Offline-First Privacy*
 
-[![Live Demo](https://img.shields.io/badge/Live_Website-workharddaily.netlify.app-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://workharddaily.netlify.app/)
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-19.x-61dafb.svg?logo=react)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-8.x-646CFF.svg?logo=vite)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com/)
-[![WebCrypto](https://img.shields.io/badge/Security-SHA--256_WebCrypto-emerald.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
-[![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
-
-[**🚀 Launch Live Web App**](https://workharddaily.netlify.app/) • [**Explore Repository**](https://github.com/sachin07-a/studysphere) • [**Report a Bug**](https://github.com/sachin07-a/studysphere/issues) • [**Request a Feature**](https://github.com/sachin07-a/studysphere/issues)
-
 <br/>
 
 <a href="https://workharddaily.netlify.app/" target="_blank">
@@ -27,6 +16,21 @@
 <p align="center">
   <em>⚡ StudySphere 3D Live HUD: Liquid-Glass UI mode with real-time focus timers, habit telemetry, active recall flashcards, and exam countdowns.</em>
 </p>
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live_Website-workharddaily.netlify.app-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://workharddaily.netlify.app/)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-19.x-61dafb.svg?logo=react)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-8.x-646CFF.svg?logo=vite)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com/)
+[![WebCrypto](https://img.shields.io/badge/Security-SHA--256_WebCrypto-emerald.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
+[![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
+
+<br/>
+
+[**🚀 Launch Live Web App**](https://workharddaily.netlify.app/) • [**Explore Repository**](https://github.com/sachin07-a/studysphere) • [**Report a Bug**](https://github.com/sachin07-a/studysphere/issues) • [**Request a Feature**](https://github.com/sachin07-a/studysphere/issues)
 
 </div>
 
