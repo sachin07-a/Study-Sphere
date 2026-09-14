@@ -2,10 +2,12 @@
 
 <div align="center">
 
-![StudySphere 3D Banner](https://raw.githubusercontent.com/sachin07-a/studysphere/main/public/favicon.svg)
+![StudySphere 3D Icon](https://raw.githubusercontent.com/sachin07-a/studysphere/main/public/favicon.svg)
 
 ### The Next-Generation 3D Academic Operating System & Student Productivity Suite
 *Distraction-Free • Sensory Customization • Spaced Repetition • Offline-First Privacy*
+
+[![Live Demo](https://img.shields.io/badge/Live_Website-workharddaily.netlify.app-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://workharddaily.netlify.app/)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19.x-61dafb.svg?logo=react)](https://react.dev/)
@@ -14,9 +16,26 @@
 [![WebCrypto](https://img.shields.io/badge/Security-SHA--256_WebCrypto-emerald.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
-[**Explore Live Repository**](https://github.com/sachin07-a/studysphere) • [**Report a Bug**](https://github.com/sachin07-a/studysphere/issues) • [**Request a Feature**](https://github.com/sachin07-a/studysphere/issues)
+[**🚀 Launch Live Web App**](https://workharddaily.netlify.app/) • [**Explore Repository**](https://github.com/sachin07-a/studysphere) • [**Report a Bug**](https://github.com/sachin07-a/studysphere/issues) • [**Request a Feature**](https://github.com/sachin07-a/studysphere/issues)
+
+<br/>
+
+<a href="https://workharddaily.netlify.app/" target="_blank">
+  <img src="./public/screenshots/studysphere-dashboard.png" alt="StudySphere 3D Top View Dashboard Preview" width="100%" style="border-radius: 16px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 20px 50px -15px rgba(0,0,0,0.8);" />
+</a>
+
+<p align="center">
+  <em>⚡ StudySphere 3D Live HUD: Liquid-Glass UI mode with real-time focus timers, habit telemetry, active recall flashcards, and exam countdowns.</em>
+</p>
 
 </div>
+
+---
+
+## 🌐 Live Website & Demo
+
+Experience the full live application running in your browser:
+👉 **[https://workharddaily.netlify.app/](https://workharddaily.netlify.app/)**
 
 ---
 
@@ -184,6 +203,7 @@ StudySphere integrates the official **SuperMemo-2 (SM-2)** algorithm for active 
 ```text
 studysphere/
 ├── public/                     # Static assets & icons
+│   └── screenshots/            # Dashboard top view previews
 ├── src/
 │   ├── components/
 │   │   ├── 3d/                 # Interactive HTML5 Canvas 3D particle systems
@@ -243,6 +263,6 @@ studysphere/
 
 Crafted with 🌌 for students and scholars worldwide.
 
-**[⭐ Star this repository on GitHub](https://github.com/sachin07-a/studysphere)**
+**[⭐ Star this repository on GitHub](https://github.com/sachin07-a/studysphere)** • **[🚀 Live App: workharddaily.netlify.app](https://workharddaily.netlify.app/)**
 
 </div>
