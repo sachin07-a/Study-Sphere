@@ -26,7 +26,6 @@
 [![Vite](https://img.shields.io/badge/Vite-8.x-646CFF.svg?logo=vite)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com/)
 [![WebCrypto](https://img.shields.io/badge/Security-SHA--256_WebCrypto-emerald.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
-[![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 <br/>
 
